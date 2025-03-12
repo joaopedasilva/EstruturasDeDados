@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10a00cce-6bd9-47d7-a939-f3d0d6a4cb45" name="Changes" comment="Add new comments.">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UniBHList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UniBHList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UnaList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnaList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

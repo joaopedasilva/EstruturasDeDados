@@ -1,3 +1,3 @@
-UniBH - Estruturas de dados - Lista
+Una de Sete Lagoas - Estruturas de dados - Linked List
 
-Implemente os métodos que faltam para uma lista simplesmente encadeada.
+Implementação de métodos para uma lista simplesmente encadeada.

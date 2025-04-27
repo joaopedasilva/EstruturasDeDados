@@ -1,21 +1,22 @@
-// You can extend comparable interface,
-// this enables you to check if two elements are or not equals.
-
 public class Node<T> {
     private T value;
-    private Node next;
+    private Node<T> next;
 
     public Node(T valor) {
         this.value = valor;
         this.next = null;
     }
 
+    public void setNext(Node<T> next) {
+        this.next = next;
+    }
+
     public Node<T> getNext() {
         return this.next;
     }
 
-    public void setNext(Node next) {
-        this.next = next;
+    public void setValue(T value) {
+        this.value = value;
     }
 
     public T getValue() {
